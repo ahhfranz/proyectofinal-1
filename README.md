@@ -2,7 +2,7 @@
 
 Sitio web responsive dedicado a un e-Commerce de ropa/joyería, presentado como mi proyecto final para CODERHOUSE.
 
-## 🌐 https://ahhfranz.github.io/Test/
+## 🌐 ahhfranz.github.io/proyectofinal-1/
 
 ---
 
