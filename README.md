@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Proyecto Final - HAVEN SHOP 🛍️💍
 
 Sitio web responsive dedicado a un e-Commerce de ropa/joyería, presentado como mi proyecto final para CODERHOUSE.
@@ -57,7 +56,7 @@ Test/
 ├── .gitignore
 └── README.md
 ```
-=======
+
 # Proyecto Final - HAVEN SHOP 🛍️💍
 
 Sitio web responsive dedicado a un e-Commerce ficticio de ropa/joyería, presentado como mi proyecto final para CODERHOUSE.
@@ -77,4 +76,3 @@ Sitio web responsive dedicado a un e-Commerce ficticio de ropa/joyería, present
 
 ---
 
->>>>>>> 0b6a87398fc70ceff22688e71bc86bd58cd2d932
