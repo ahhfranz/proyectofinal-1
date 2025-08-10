@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Remera CONSTANT",
+        "precio": 42900,
+        "imagen": "../images/remera-constant.webp",
+        "categoria": "Hombres"
+    },
+    {
+        "id": 2,
+        "nombre": "Remera SILENCE",
+        "precio": 42900,
+        "imagen": "../images/remera-silence.webp",
+        "categoria": "Hombres"
+    },
+    {
+        "id": 3,
+        "nombre": "Remera WABI SABI",
+        "precio": 42900,
+        "imagen": "../images/remera-wabisabi.webp",
+        "categoria": "Hombres"
+    }
+]
